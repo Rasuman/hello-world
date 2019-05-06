@@ -1,0 +1,104 @@
+<html><head><title>Education 4 Kids (Page-2)</title></head>
+<style>
+h1{font-family:Broadway;color:brown;text-align:center}
+h3{font-family:arial}
+td{background-color:Lightgrey}
+i{color:Green}
+</style>
+<body bgcolor="brown"><table border=1>
+<tr><td>
+<h1>Minerals</h1>
+<p><i>Mineral</i> - is defined as a naturally occuring, inorganic solid with a 
+definite chemical composition and an ordered internal structure.
+Every mineral is unique, but they exhibit general characteristics:</p>
+<ol>
+<li><i>Naturally-occuring</i> - Minerals should exist naturally. Steel and synthetic diamonds are created artificially, and therefore, are not minerals.
+<li><i>Inorganic</i> - Minerals are limited to substances formed througth inorganic process, and exclude materials derived from living organisms which involved organic process. 
+Coal, which is composed of remains of plants and other inorganic compounds, in not a mineral.
+<li><i>Solid</i> - All liquids and gases, even those that are naturally formed such as petroleum, are not considered minerals. Ice formedin the glaciers is considered a mineral
+but water is not.
+<li><i>Definite chemical composition</i> - The chemical composition of minerals should express the exact chemical formula with the elements and compounds in specific ratios. The only 
+expection is the aromic substitution, which is characteristic of certain minerals.
+<li><i>Ordered internal structure</i> - The atoms in minerals are organized in a regular, repetitive geometric patterns or crystal stucture. Volcanic glass, even if it is formed naturally, is not considered
+a mineral because it is a amorphous and has no form. Substances  that fulfill all the requirements but do not have an ordered internal structure are called <i>mineraloids</i>. Examples are of 
+mineraloids (amber, obsidian, opal, and pearl).
+</ol>
+</td><td rowspan="4"><h2>You're on Page 1</h2>
+<h3>Next Page -</h3>
+<a href="Science2 (html).html">Page 2</a><br>
+<a href="Science3 (html).html">Page 3</a><br>
+<a href="Science4 (html).html">Page 4</a><br>
+<a href="Math1 (html).html">Page 5</a><br>
+<a href="Math2 (html).html">Page 6</a><br>
+<a href="Math3 (html).html">Page 7</a><br>
+<a href="English1 (html).html">Page 8</a><br>
+<a href="English2 (html).html">Page 9</a><br>
+<a href="Science101 (html).html">Page 10</a><br>
+<p>Page 1-4 - Minerals in Cell Phones (Science)</p>
+<p>Page 1 - Minerals<br>
+Page 2 - Rocks and Rock Cycle<br>
+Page 3 - Classfication of Rocks<br>
+Page 4 - Ore and Minerals</p>
+<p>Page 5-7 - Exponents, Scientific Notation and Square Root (Math)</p>
+<p>Page 5 - Exponents<br>
+Page 6 - Scientific Notation<br>
+Page 7 - Square Root</p>
+<p>Page 8-10 - Others</p>
+<p>Page 8 - Poems (English)<br>
+Page 9 - Story (English)<br>
+Page 10 -Phases of the Moon (Science)</p>
+
+</td>
+</tr>
+<tr><td>
+<h3>Composition of Minerals</h3>
+<p>In terms of composition, minerals can be classfied into several mineral classes which are mainly composed of elements that are abundant on Earth's crust.</p>
+<ol><li><i>Silicates</i> are composed primarily of silicon-oxygen tetrahedrons (SiO<sub>4</sub><sup>2-</sup>). Silicates are the major rock-forming minerals and includes olvine ((Mg,Fe)<sub>2</sub>SiO<sub>4</sub>) 
+and quartz (SiO<sub>2</sub>).
+<li><i>Oxides</i> consist of metal cations bonded to oxygen anions. Common oxide minerals are magnetite (Fe<sub>3</sub>O<sub>4</sub>) and hematite (Fe<sub>2</sub>O<sub>3</sub>).
+<li><i>Sulfides</i> consists of a metal carbon bonded to sulfide(S<sup>-2</sup>). They are common ore minerals along with oxides since metals form a high proportion of the mineral. Examples of sulfides 
+are galena (PbS) and pyrite (FeS<sub>2</sub>).
+<li><i>Sulfates</i> consist of a metal cation bonded to the SO<sub>4</sub><sup>2-</sup> anionic group. They usually precipitate out of water near Earth's surface. An 
+example of sulfate is gypsum(CaSO<sub>4</sub>-2H<sub>2</sub>O).
+<li><i>Halides</i> are composed of a halogen ion such as chlorine or fluorine which is forms halite or rock salt (NaCl) and fluorine (CaF<sub>2</sub>).
+<li><i>Carbonates</i> are characterized by the presence of carbonic ion (CO<sub>3</sub><sup>2-</sup>) which bonds elements such as calcium or magnesium to form calcite 
+(CaCO<sub>3</sub>) or dolomite (CaMg(CO<sub>3</sub>)<sub>2</sub>).
+<li><i>Native metals</i> consist of a single metal such as copper(Cu) and gold (Au).
+</ol>
+</td>
+</tr>
+<tr><td>
+<h3>Crystal Structure of Minerals</h3>
+<p><i>Crystal structure</i> is dependent on the chemical composition of the mineral. Minerals that have similar chemical compositions often share the same crystal structure and generally belong to the same 
+crystal system. There are six crystal systems used in grouping minerals based on structure: triclinic, nonoclinic, orthorhombic, terragonal, hexagonal, and isometric structures.</p>
+</tr>
+<tr><td>
+<h3>Physical Properties of Minerals</h3>
+<p>There are around 4000 minerals and each has a unique set of physical properties including crystal formation, habit, clevage, fracture, luster, color, streak, hardness, 
+density, magnetism, taste, feel, and reacion to acid. These physical properties are useful for identifying minerals using a systematic method such as Dana classification.</p>
+<ol><li><b>Crystal Form and Habit</b> - since minerals have a definete shape which crystallizes in a specific crystal form. Habit, on the other hand, is the outward appearance of the minerals's crystal 
+form. It can be described as granular, tabular, dendritic, acicular, massive, reniform, drusy, or encrusting.
+<li><b>Clevage and Fracture</b> - The manner in which a mineral breaks is dependent on its molecular bonding and structure. The tendency of a mineral to break along planes 
+of weakness os known as clevage. It can be described both in the number and directions of clevage planes and its quality (excellent, good, poor, or absent). Minerals with 
+excellent clevage will break break into smooth, flat, parallel surfaces. A good clevage will result in small, smooth, step-like flat surfaces. Clevage surfaces are diffucult to 
+identify in minerals with poor clevage, while minerals that do not have clevage will fracture either in an irregular manner or as conchoidal fracture (smooth, curved surfaces).
+<li><b>Luster</b> - The luster  of a mineral describes the appearance of light reflected from a mineral surface. A mineral may be described  as metallic, like that if a polished metal. Alternatively, 
+it may be  described as nonmetallic, which can be vitreous (like glass), resinous (like resin), pearlescent, silky, greasy, earthy, and dull.
+<li><b>Color and Streak</b> - Although color is the most obvious mineral property, it is not a reliable feature for identifying minerals because it can be altered by chemical 
+impurities  within its structure. Quartz is colorless but slight impurities can produce a vareity of colors, such as white (like in milky quartz), yellow (like in citrine), purple (like 
+in amethyst), or black (like in smoky quartz).<br> <i>Streak</i> is the color of a mineral in its powdered form. It can be obtained by rubbing the mineral on an abrasive ceramic tile called streak plate.
+<li><b>Hardness</b> - The Hardness of a mineral is a measurement of the strength of the chemical bonds in its structure. It can be measured by scratching it with another mineral or 
+ a reference material with known hardeness. The <i>Mohs scale of hardness</i> is a relative measure of these hardness using common materials and standard minerals to represent a specific hardness value.
+<li><b>Density</b> - <i>Specific gravity</i> is a measure of the density of a mineral. It is the weight of a mineral relative to the weight of an equal volume of water. Most common mineral have 
+a specific gravity of 2.7, while gold has 19.
+</ol>
+<p>Other properties with the corresponding minerals that exhibit these properties are as follow:
+<ul>
+<li>Magnetism (magnetite)
+<li>Taste (halite is salty)
+<li>Effervescence or reaction to acid (calcite and other carbonates will react with weak acid)
+<li>Feel (talc is greasy)
+</ul>
+</table>
+</body>
+</html>

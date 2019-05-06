@@ -1,0 +1,54 @@
+<html><head><title>Education 4 Kids (Page-6)</title></head>
+<style>
+h1{font-family:Broadway;color:brown;text-align:center}
+h3{font-family:arial}
+td{background-color:white}
+i{color:Green}
+</style>
+<body bgcolor="brown"><table border=1><tr><td>
+<h1>Scientific Notation</h1>
+<p>__________________________________________________________________________________________________________________________________________________</p>
+<h3>Definition of Scientific Notation</h3>
+<p>A number is said to be <i>scientific notation</i> if it is written in the form.</p>
+<p>m x 10<sup>n</sup></p>
+<p>where <i>m</i> is a number greater than or equal to 1 and less than 10, and <i>n</i> is an integer.</p>
+<p>The following are examples:</p>
+<p>5.3 = 5.3 x 10<sup>0</sup> (The decimal point in 5.3 must be moved 0 places.)</p>
+<p>53 = 5.3 x 10<sup>1</sup> (The decimal point in 5.3 must be moved 1 places to the right.)</p>
+<p>53,000 = 5.3 x 10<sup>4</sup> (The decimal point in 5.3 must be moved 4 places to the right.)</p>
+<p>0.53 = 5.3 x 10<sup>-1</sup> (The decimal point in 5.3 must be moved 1 places to the left.)</p>
+<p>0.053 = 5.3 x 10<sup>-2</sup> (The decimal point in 5.3 must be moved 2 places to the left.)</p>
+<p>0.00053 = 5.3 x 10<sup>-4</sup> (The decimal point in 5.3 must be moved 4 places to the left.)</p>
+<p>Example 1.1</p>
+<ol type="a"><li>270,000,000<li>0.000 000 000 000 000 000 000 019 9</ol>
+<p>Solution:</p>
+<ol type="a"><li>270,000,000 = 2.7 x 10<sup>8</sup><li>0.000 000 000 000 000 000 000 019 9 = 1.99 x 10<sup>-23</sup></ol>
+<p>Example 1.2</p>
+<p>(5 x 10<sup>4</sup>) x (9 x 10<sup>-7</sup>)</p><p>Solution:</p>
+<p>(5 x 10<sup>4</sup>) x (9 x 10<sup>-7</sup>) = (5 x 9) x (10<sup>4</sup> x 10<sup>-7</sup>)<br>= 45 x 10<sup>4-7</sup><br>= 45 x 10<sup>-3</sup><br>= (4.5 x 10<sup>1</sup>) x 10<sup>-3</sup><br>= 4.5 x 10<sup>1-3</sup><br>= 4.5 x 10<sup>-2</sup></p>
+</td><td rowspan="4"><h2>You're on Page 6</h2>
+<h3>Next Page - </h3>
+<a href="Science1 (html).html">Page 1</a><br>
+<a href="Science2 (html).html">Page 2</a><br>
+<a href="Science3 (html).html">Page 3</a><br>
+<a href="Science4 (html).html">Page 4</a><br>
+<a href="Math1 (html).html">Page 5</a><br>
+<a href="Math3 (html).html">Page 7</a><br>
+<a href="English1 (html).html">Page 8</a><br>
+<a href="English2 (html).html">Page 9</a><br>
+<a href="Science101 (html).html">Page 10</a><br>
+<p>Page 1-4 - Minerals in Cell Phones (Science)</p>
+<p>Page 1 - Minerals<br>
+Page 2 - Rocks and Rock Cycle<br>
+Page 3 - Classfication of Rocks<br>
+Page 4 - Ore and Minerals</p>
+<p>Page 5-7 - Exponents, Scientific Notation and Square Root (Math)</p>
+<p>Page 5 - Exponents<br>
+Page 6 - Scientific Notation<br>
+Page 7 - Square Root</p>
+<p>Page 8-10 - Others</p>
+<p>Page 8 - Poems (English)<br>
+Page 9 - Story (English)<br>
+Page 10 -Phases of the Moon (Science)</p>
+</td>
+</tr></body></html>

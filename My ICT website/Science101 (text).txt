@@ -1,0 +1,84 @@
+<html><head><title>Education 4 Kids (Page-10)</title></head>
+<style>
+h1{font-family:Broadway;color:brown;text-align:center}
+h3{font-family:arial}
+td{background-color:darkgrey}
+i{color:Green}
+</style>
+<body bgcolor="brown"><table border=1>
+<tr><td>
+<h1>Phases of the Moon</h1>
+<img scr="Moon.jfif">
+<p>Sunlight is shown coming in from the right. The earth, of course, is at the center of the diagram. The moon is shown at 8 key stages during its revolution around the earth. The moon phase name is shown alongside the image. 
+The dotted line from the earth to the moon represents your line of sight when looking at the moon. The large moon image shows what you would see at that point in the cycle. For the waning gibbous, third quarter, 
+and waning crescent phases you have to mentally turn yourself upside down when imagining the line of sight one important thing to notice is that exactly one half of the moon is always illuminated by the sun. 
+Of course that is perfectly logical, but you need to visualize it in order to understand the phases. At certain times we see both the sunlight portion and the shadowed portion and that creates the various moon phase 
+shapes we are all familiar with. Also note that the shadowed part of the moon is invisible to the naked eye; in the diagram above, it is only shown for clarification purposes. Finally, please realize this diagram is only meant 
+to demonstrate how the phases work; the small inner moons in the diagram do not show the fact that the same side of the moon always faces Earth.
+</p>
+<h3>Moon Phases Simplified</h3>
+<p>It's probably easiest to understand the moon cycle in this order: new moon and full moon, first quarter and third quarter, and the phases in between.
+ The new moon occurs when the moon is positioned between the earth and sun. The three objects are in approximate alignment (why "approximate" is explained below). The entire illuminated portion of the moon is on the back side of the moon, the half that we cannot see.
+At a full moon, the earth, moon, and sun are in approximate alignment, just as the new moon, but the moon is on the opposite side of the earth, so the entire sunlit part of the moon is facing us. The shadowed portion is entirely hidden from view.
+The first quarter and third quarter moons (both often called a "half moon"), happen when the moon is at a 90 degree angle with respect to the earth and sun. So we are seeing exactly half of the moon illuminated and half in shadow.
+</p>
+<h3>8 Moon Phases</h3>
+<p>The 8 Moon Phases In Order. The 8 moon phases in order are:</p>
+<ol>
+<li><i>New moon</i>
+<li><i>Waxing Crescent</i>
+<li><i>First Quarter</i>
+<li><i>Waxing Gibbous</i>
+<li><i>Full moon</i>
+<li><i>Waning Gibbous</i>
+<li><i>Third Quarter</i>
+<li>and finally <i>Waxing Crescent</i>.
+</ol>
+<p>The moon has phases the wanes, waxes, and even sometimes we can't even see the moon during its phase.</p>
+</td>
+<td rowspan="4"><h2>You're on Page 10</h2>
+<h3>Next Page - </h3>
+<a href="Science1 (html).html">Page 1</a><br>
+<a href="Science2 (html).html">Page 2</a><br>
+<a href="Science3 (html).html">Page 3</a><br>
+<a href="Science4 (html).html">Page 4</a><br>
+<a href="Math1 (html).html">Page 5</a><br>
+<a href="Math2 (html).html">Page 6</a><br>
+<a href="Math3 (html).html">Page 7</a><br>
+<a href="English1 (html).html">Page 8</a><br>
+<a href="English2 (html).html">Page 9</a><br>
+<p>Page 1-4 - Minerals in Cell Phones (Science)</p>
+<p>Page 1 - Minerals<br>
+Page 2 - Rocks and Rock Cycle<br>
+Page 3 - Classfication of Rocks<br>
+Page 4 - Ore and Minerals</p>
+<p>Page 5-7 - Exponents, Scientific Notation and Square Root (Math)</p>
+<p>Page 5 - Exponents<br>
+Page 6 - Scientific Notation<br>
+Page 7 - Square Root</p>
+<p>Page 8-10 - Others</p>
+<p>Page 8 - Poems (English)<br>
+Page 9 - Story (English)<br>
+Page 10 -Phases of the Moon (Science)</p>
+<address>By: Rasuman, Abdur Rab G.</address>
+</td>
+</tr><tr><td><h3>Who discover the moon phases
+</h3>
+<p><b>Galileo</b></p>
+<p>At the time, most scientists believed that the Moon was a smooth sphere, but Galileo discovered that the Moon has mountains, pits, and other features, just like the Earth. When Galileo pointed his telescope at 
+Jupiter, the largest planet in our solar system, he made a startling discovery.</p>
+</p><h3><i>Mass, Size and Gravity</i> of the Moon(=) compare to Earth(*)
+</h3>
+<p><b>MASS</b><br>
+= 7.34767309 × 1022 kilograms<br>
+*5.972 × 10^24 kg<br>
+<b>SIZE</b><br>
+= 1,737.1 km<br>
+*6,371 km<br>
+<b>GRAVITY</b><br>
+= 1.62 m/s²<br>
+*9.807 m/s²
+</p>
+</td></tr>
+</body>
+</html>
